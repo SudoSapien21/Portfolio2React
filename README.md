@@ -82,4 +82,4 @@ GitHub: [https://github.com/SudoSapien21](https://github.com/https://github.com/
 
 
 
-![alt](./public/rc.gif)
+![alt](./src/assets/gifs/rc.gif)
