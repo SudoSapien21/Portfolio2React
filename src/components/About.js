@@ -1,4 +1,6 @@
 import React from 'react';
+import aboutme from '../assets/images/aboutme.png';
+
 
 function About() {
   return (
@@ -9,7 +11,7 @@ function About() {
       I also received an associate's degree in Computer Science and a certificate in PC technician. I am working on my Real Estate License while trying to maintain a coding 
       certificate.</p>
 
-     <img src="./me.jpg" width="200" height="200" alt="Happy Life"></img>
+     <img src= {aboutme}  width="200" height="200" alt="Happy Life"></img> 
 
   </div>
 );
